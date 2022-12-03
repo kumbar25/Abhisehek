@@ -1,0 +1,17 @@
+  <html>
+   <head>
+             <title> table ex</title>
+           <table border="2">
+     <tr>
+          <th>         </th>
+        <th>name</th>
+        <th>class</th>
+        <th>rollno</th>
+   </tr>
+              <td> 45</td>
+              <td>2</td>
+             <td>2</td>
+        </tr>
+</html>
+
+         
